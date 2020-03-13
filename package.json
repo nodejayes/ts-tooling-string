@@ -1,6 +1,6 @@
 {
   "name": "ts-tooling-string",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0",
   "main": "dist/ts-tooling-string.umd.js",
   "module": "dist/ts-tooling-string.esm.js",
   "types": "dist/types/index.d.ts",
